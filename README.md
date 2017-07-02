@@ -3,22 +3,22 @@
 ------------------------
 ## Inicialización Básica
 
-#### 1. Instalar Node.js
+### 1. Instalar Node.js
 
-#### 2. Requisitos del Sistema Operativo
+### 2. Requisitos del Sistema Operativo
 
-### **OSX**
+#### **OSX**
 	* Xcode
 
-### **WIN**
+#### **WIN**
 	* Visual Studio Community Edition - C++
 	* Python
 
-### **Ubuntun | Debian**
+####  **Ubuntun | Debian**
 	* apt-get install nodejs-legacy
 	* apt-get install build-essential
 
-#### 3. npm install -g node-gyp
+### 3. npm install -g node-gyp
 
 ## Firmata
 ### Johnny Five
