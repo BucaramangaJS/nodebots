@@ -5,7 +5,7 @@
 
 Los siguientes pasos básicos permiten poner a punto la configuración fundamental para usar los diferentes ejemplos.
 
-### 1. Instalar Node.js
+### 1. Instalar Node.js
 
 ### 2. Requisitos del Sistema Operativo
 
