@@ -21,10 +21,10 @@
 3. npm install -g node-gyp
 
 ## Firmata
-	###Johnny Five
-	npm install johnny-five
+	### Johnny Five
+	* npm install johnny-five
 
 ## Arduino
-	###File > Examples > Firmata > StandardFirmataPlus
+	* File > Examples > Firmata > StandardFirmataPlus
 
 -------------------------
